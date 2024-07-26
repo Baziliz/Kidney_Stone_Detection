@@ -39,6 +39,7 @@
 </p>
 
 ## Credit Data Set
+CT KIDNEY DATASET: Stone:
 https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone
 
 Thank you for the data used for educational purposes.
